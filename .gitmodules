@@ -1,0 +1,9 @@
+[submodule "web-app"]
+	path = web-app
+	url = git@github.com:MisterChief53/AI-den.git
+[submodule "google-cloud"]
+	path = google-cloud
+	url = git@github.com:MikelBarajas38/AIden-google-cloud.git
+[submodule "sensors"]
+	path = sensors
+	url = git@github.com:Gspr-bit/AI-den-sensors.git
